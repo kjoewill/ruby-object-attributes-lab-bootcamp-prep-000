@@ -1,4 +1,5 @@
 def Dog 
+  
   @name 
   
   def name= (n)
