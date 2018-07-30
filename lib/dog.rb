@@ -1,8 +1,8 @@
 def dog 
   @name 
   
-  def name= (aName)
-    @name = aName
+  def name= (n)
+    @name = n
   end
   
   def name
